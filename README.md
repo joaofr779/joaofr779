@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋 🔭 I’m currently working on ..in a workshop  🤔 I’m looking for help with courses
 
 <!--
-**joaofr779/joaofr779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joaofr779/j🔭 oaofr779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
