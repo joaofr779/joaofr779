@@ -1,6 +1,13 @@
-## Hi there 👋 🔭 I’m currently working on ..in a workshop  🤔 I’m looking for help with courses
+.🔭Atualmente estou trabalhando em liguagem de programação
 
-<!--
+.😁gosto de jogar fifa
+
+.amo meu carro
+
+![](https://media1.tenor.com/m/ZJiAwc-IzrYAAAAC/neymar-crying-football-crying.gif)
+
+
+<--
 **joaofr779/j🔭 oaofr779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
